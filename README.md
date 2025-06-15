@@ -47,7 +47,8 @@ Do the following things before our workshop. You may already have some of these 
 ## General Tips
 
 1. **Learn terminology** - learning terminology helps you understand what is possible, what to search for, and how better to prompt an AI coding assistant.
-1. **Beware the XY Problem** - The [XY Problem](https://xyproblem.info/) is a way of thinking about how to ask for help solving problems, and is useful in all domains—not just coding.
+1. **Beware the XY Problem** - The [XY Problem](https://xyproblem.info/) is a way of thinking about how to ask for help solving problems, and is useful in all domains—not just coding. Essentially, it's a way to help you ask better questions by getting you to ask about the *problem itself* instead of what you *think* the solution is. 
+1. **Gain comfort connecting different languages and contexts** – Any intermediate to advanced project you approach will require multiple tools working together. You often can't *just* use p5.js, or *just* Python. Cobbling together multiple tools for the job is often how problems must be solved, rather than forcing one tool to do everything.
 
 
 ## Learning Resources
