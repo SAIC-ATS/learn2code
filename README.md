@@ -4,53 +4,6 @@ This is a non-comprehensive list of resources for venturing into creative code a
 
 This is a living document. Resources will go out of date; new resources will be added.
 
-## Libraries, plugins and tools
-
-### Web
-
-- [p5.js](https://p5js.org/) – Creative coding for the web. Based on the [Processing](https://processing.org/) programming language
-- [q5.js](https://q5js.org/home/) – A GPU-optimized version of p5.js that may make some of your sketches run faster. The syntax is very similar to p5.js
-- [A-Frame](https://aframe.io/) – A simple, more approachable 3D graphics library. Good for building WebVR and WebXR websites.
-- [three.js](https://threejs.org/) – 3D graphics and effects in the browser. Built on top of WebGL. three.js is an advanced library.
-- [matter.js](https://brm.io/matter-js/) – Physics library for the web
-- [p5.plotSvg](https://github.com/golanlevin/p5.plotSvg) - Generate SVG files in p5.js to be plotted on a pen plotter
-- [ml5.js](https://ml5js.org/) – Machine learning for the web. Works well with p5.js
-- [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide) – a multi-platform machine learning library designed for efficiency in order to run on low-power devices
-
-
-### TouchDesigner
-
-- [MediaPipe TouchDesigner Plugin](https://github.com/torinmb/mediapipe-touchdesigner) – created by [Torin Blankensmith](https://www.youtube.com/results?search_query=torin+blankensmith). See their hand-tracking tutorial [below](#touchdesigner-2)
-
-## General Learning Resources
-
-- [freeCodeCamp.org](https://www.freecodecamp.org/learn/) - a great free resource with an abundance of hands-on lessons for a variety of coding languages and development contexts
-
-## Books++
-
-- [The Nature of Code by Daniel Shiffman](https://natureofcode.com/) - an intermediate to advanced book covering math and coding concepts for simulating natural systems in code. The book uses p5.js, but these principles can be implemented in other languages. Includes some video tutorials.
-
-## YouTube Channels
-
-### p5.js
-
-- [The Coding Train with Daniel Shiffman](https://www.youtube.com/@TheCodingTrain) - an incredible resource for learning creative code through p5.js
-
-- [Patt Vira](https://www.youtube.com/@pattvira) - great standalone creative coding (and some physical computing) tutorials. A wide variety of beginning to advanced lessons.
-
-
-### TouchDesigner
-
-- [The Interactive & Immersive HQ](https://www.youtube.com/@TheInteractiveImmersiveHQ) – Excellent TouchDesigner lessons and tutorials
-
-- [Torin Blankensmith](https://www.youtube.com/results?search_query=torin+blankensmith) – TouchDesigner, body tracking
-
-### HTML + CSS
-
-- [Kevin Powell](https://www.youtube.com/@KevinPowell) – Super up-to-date tutorials on HTML and CSS (mostly CSS). Great place to learn general web design and development
-
-
-
 ## Selected Tutorials and Learning Playlists
 
 ### General coding
@@ -80,6 +33,65 @@ This is a living document. Resources will go out of date; new resources will be 
 - [Torin Blankensmith – Hand Tracking in TouchDesigner - Master Class Part 3](https://www.youtube.com/watch?v=7o960C7nXSY)
 
 - [TouchDesigner - IF statements and basic Python (Script CHOP)](https://www.youtube.com/watch?v=pgpteF2Ztp8) – Bring basic if-statements and coding logic with Python into TouchDesigner
+
+## General Learning Resources
+
+- [freeCodeCamp.org](https://www.freecodecamp.org/learn/) - a great free resource with an abundance of hands-on lessons for a variety of coding languages and development contexts
+
+## Books++
+
+- [The Nature of Code by Daniel Shiffman](https://natureofcode.com/) - an intermediate to advanced book covering math and coding concepts for simulating natural systems in code. The book uses p5.js, but these principles can be implemented in other languages. Includes some video tutorials.
+
+## YouTube Channels
+
+### p5.js
+
+- [The Coding Train with Daniel Shiffman](https://www.youtube.com/@TheCodingTrain) - an incredible resource for learning creative code through p5.js
+
+- [Patt Vira](https://www.youtube.com/@pattvira) - great standalone creative coding (and some physical computing) tutorials. A wide variety of beginning to advanced lessons.
+
+
+### TouchDesigner
+
+- [The Interactive & Immersive HQ](https://www.youtube.com/@TheInteractiveImmersiveHQ) – Excellent TouchDesigner lessons and tutorials
+
+- [Torin Blankensmith](https://www.youtube.com/results?search_query=torin+blankensmith) – TouchDesigner, body tracking
+
+### HTML + CSS
+
+- [Kevin Powell](https://www.youtube.com/@KevinPowell) – Super up-to-date tutorials on HTML and CSS (mostly CSS). Great place to learn general web design and development
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+# Downloads
+
+## Software to download/use
+
+- [GitHub Desktop](https://desktop.github.com/download/) - a simple desktop app to help you manage your GitHub repositories without using the command line
+- [Visual Studio Code](https://code.visualstudio.com/) (VS Code) - A text editor for working on your coding projects
+- [FFmpeg](https://ffmpeg.org/) – A command line tool for editing and exporting video. Good for batch processing multiple video files quickly, without needing to use something like Adobe Premiere.
+- [Obsidian](https://obsidian.md/) – A lightweight, markdown-based note-taking and "knowledge management" app. Highly customizable, can be used to create simple or complex note-taking systems. All files are stored locally (unlike cloud-based services like Notion or Google Docs)
+
+## Libraries, plugins and tools
+
+### Web
+
+- [p5.js](https://p5js.org/) – Creative coding for the web. Based on the [Processing](https://processing.org/) programming language
+- [q5.js](https://q5js.org/home/) – A GPU-optimized version of p5.js that may make some of your sketches run faster. The syntax is very similar to p5.js
+- [A-Frame](https://aframe.io/) – A simple, more approachable 3D graphics library. Good for building WebVR and WebXR websites.
+- [three.js](https://threejs.org/) – 3D graphics and effects in the browser. Built on top of WebGL. three.js is an advanced library.
+- [matter.js](https://brm.io/matter-js/) – Physics library for the web
+- [p5.plotSvg](https://github.com/golanlevin/p5.plotSvg) - Generate SVG files in p5.js to be plotted on a pen plotter
+- [ml5.js](https://ml5js.org/) – Machine learning for the web. Works well with p5.js
+- [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide) – a multi-platform machine learning library designed for efficiency in order to run on low-power devices
+
+
+### TouchDesigner
+
+- [MediaPipe TouchDesigner Plugin](https://github.com/torinmb/mediapipe-touchdesigner) – created by [Torin Blankensmith](https://www.youtube.com/results?search_query=torin+blankensmith). See their hand-tracking tutorial [below](#touchdesigner-2)
 
 
 
