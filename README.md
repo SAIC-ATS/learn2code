@@ -55,5 +55,5 @@ Do the following things before our workshop. You may already have some of these 
 
 ## Learning Resources
 
-1. freeCodeCamp.org - [Certified Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/) 
+(coming soon)
 
