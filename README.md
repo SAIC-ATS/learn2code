@@ -1,40 +1,92 @@
-# learn2code - Code and software tools for AT/SP
+# learn2code - Code and software tools and learning resources for AT/SP
 
-This is a non-comprehensive list of resources for venturing into creative code and software tools that brush up against creative code. The resources shared here have (mostly) been vetted or tested before adding. This is not a gaurantee that they'll work on your machine 😉
+This is a non-comprehensive list of resources for venturing into creative code and software tools that brush up against creative code. The resources shared here have (mostly) been vetted or tested before adding. This is not a gaurantee that they'll work on your machine 😉.
 
-This is a living document. Resources will go out of date; new resources will be added.
+This is a living document. Resources will go out of date; new resources will be added. For now, most of these resources are related to the learn2code workshop held on June 15, 2025. More resources will be added.
+
+## Table of Contents
+
+- [learn2code - Code and software tools and learning resources for AT/SP](#learn2code---code-and-software-tools-and-learning-resources-for-atsp)
+  - [Table of Contents](#table-of-contents)
+- [Learning](#learning)
+  - [Shortcut: What tools should I use?](#shortcut-what-tools-should-i-use)
+  - [Selected Tutorials and Learning Playlists](#selected-tutorials-and-learning-playlists)
+    - [General coding](#general-coding)
+    - [Creative code on the web](#creative-code-on-the-web)
+    - [TouchDesigner](#touchdesigner)
+  - [General Coding Resources](#general-coding-resources)
+  - [Books++](#books)
+  - [YouTube Channels](#youtube-channels)
+    - [p5.js](#p5js)
+    - [TouchDesigner](#touchdesigner-1)
+    - [HTML + CSS](#html--css)
+- [Downloads](#downloads)
+  - [Apps and tools](#apps-and-tools)
+  - [Coding libraries and software plugins](#coding-libraries-and-software-plugins)
+    - [Web](#web)
+    - [TouchDesigner](#touchdesigner-2)
+
+# Learning
+
+## Shortcut: What tools should I use?
+
+- [**HTML**](https://www.w3schools.com/html/) + [**CSS**](https://www.w3schools.com/css/default.asp) + [**JavaScript**](https://www.w3schools.com/js/default.asp): for web-based projects. [**Node.js**](https://nodejs.org/en) for working with web servers.
+
+- [**p5.js**](https://p5js.org/): for creative coding on the web. Can be used for interactive installations, but is best used on the web.
+
+- [**Visual Studio Code**](https://code.visualstudio.com/): a text editor for building your coding projects. Use this to work on your web code (HTML + CSS + JS), Python, or other types of coding projects.
+
+- [**Python**](https://www.python.org/): for all sorts of things. Good for simple scripts for processing data, images, video, etc. Heavily used in AI/machine learning, and is the scripting language for tools like TouchDesigner and Blender. Mac computers come with Python pre-installed, but different projects will require different versions. You'll want to familiarize yourself with [**Python Environments**](https://realpython.com/python-virtual-environments-a-primer/) before working with Python.
+
+- [**TouchDesigner**](https://derivative.ca/download) for generative/interactive installations and realtime performances.
+
+- [**Arduino**](https://docs.arduino.cc/programming/) (the programming language) for programming microcontrollers.
+
+- [**Max**](https://cycling74.com/products/max) for interactive installations and realtime performances that are geared towards sound synthesis.
+
+- [**git**](https://git-scm.com/) + [**GitHub**](https://github.com/) for managing your coding projects, using open source code repositories in your projects, and hosting free static websites. Use the [**GitHub Desktop**](https://desktop.github.com/download/) app for beginner-friendly GitHub repository management.
+
+- [**Obsidian**](https://obsidian.md/) + [**Markdown**](https://www.markdownguide.org/) for note-taking.
+
+- [**Unity**](https://unity.com/) + [**C#**](https://www.w3schools.com/cs/index.php) for working with game engines ([**Unreal Engine**](https://www.unrealengine.com/en-US) and [**C++**](https://www.w3schools.com/cpp/cpp_intro.asp) are also available, but classes in our department focus on Unity and C#)
 
 ## Selected Tutorials and Learning Playlists
 
 ### General coding
 
-- [The Coding Train – Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) – Learn how to use git and GitHub (whether or not you are a poet).
+- [Git and GitHub for Poets – The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) – Learn how to use git and GitHub (whether or not you are a poet).
 
-- [Traversy Media – Command Line Crash Course For Beginners | Terminal Commands](https://www.youtube.com/watch?v=uwAqEzhyjtw) – Learn to use the command line/Terminal. This is an extremely useful skill!
+- [Command Line Crash Course For Beginners | Terminal Commands – Traversy Media](https://www.youtube.com/watch?v=uwAqEzhyjtw) – Learn to use the command line/Terminal. This is an extremely useful skill!
 
 ### Creative code on the web
 
-- [The Coding Train - Start learning here!](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) – Beginners! Learn all the basics of code (variables, conditionals, loops, objects, arrays) in JavaScript with p5.js!
+- [Start learning here! – The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) – Beginners! Learn all the basics of code (variables, conditionals, loops, objects, arrays) in JavaScript with p5.js!
 
-- [The Coding Train – Beginners Guide to Machine Learning in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) – some of the videos in this playlist are outdated. The following more recent videos use the updated ml5.js library, and are more likely to work.
+- [Beginners Guide to Machine Learning in JavaScript – The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) – some of the videos in this playlist are outdated. The following more recent videos use the updated ml5.js library, and are more likely to work.
     - [Image Classification with ml5.js](https://www.youtube.com/watch?v=pbjR20eTLVs&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=3&t=23s&pp=iAQB)
     - [Pose Estimation with ml5.js](https://www.youtube.com/watch?v=IF414I26_K8&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=5&t=14s&pp=iAQB)
     - [Hand Pose Detection with ml5.js](https://www.youtube.com/watch?v=vfNHdVbE-l4&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=6&t=37s&pp=iAQB)
     - [Face Mesh Detection with ml5.js](https://www.youtube.com/watch?v=R5UZsIwPbJA&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=7&t=1s&pp=iAQB)
 
-- [Kevin Powell - HTML & CSS for Absolute Beginners](https://www.youtube.com/playlist?list=PL4-IK0AVhVjOJs_UjdQeyEZ_cmEV3uJvx)
+- [HTML & CSS for Absolute Beginners – Kevin Powell](https://www.youtube.com/playlist?list=PL4-IK0AVhVjOJs_UjdQeyEZ_cmEV3uJvx)
 
 ### TouchDesigner
 
-- [The Interactive & Immersive HQ – TouchDesigner Tutorial: Beginner Crash Course](https://www.youtube.com/playlist?list=PLpuCjVEMQha9rjhDET3uuE0T3UeIcROJu) – Great place to start to learn the basics of TouchDesigner. Start here before venturing out to more specific/advanced tutorials.
+- [TouchDesigner Tutorial: Beginner Crash Course – The Interactive & Immersive HQ](https://www.youtube.com/playlist?list=PLpuCjVEMQha9rjhDET3uuE0T3UeIcROJu) – Great place to start to learn the basics of TouchDesigner. Start here before venturing out to more specific/advanced tutorials.
 
-- [Torin Blankensmith – Hand Tracking in TouchDesigner - Master Class Part 1](https://www.youtube.com/watch?v=e2FtkufeErY)
-- [Torin Blankensmith – Hand Tracking in TouchDesigner - Master Class Part 2](https://www.youtube.com/watch?v=XRw1AUa57Zw)
-- [Torin Blankensmith – Hand Tracking in TouchDesigner - Master Class Part 3](https://www.youtube.com/watch?v=7o960C7nXSY)
+- [Hand Tracking in TouchDesigner - Master Class Part 1 – Torin Blankensmith](https://www.youtube.com/watch?v=e2FtkufeErY)
+- [Hand Tracking in TouchDesigner - Master Class Part 2 – Torin Blankensmith](https://www.youtube.com/watch?v=XRw1AUa57Zw)
+- [Hand Tracking in TouchDesigner - Master Class Part 3 – Torin Blankensmith](https://www.youtube.com/watch?v=7o960C7nXSY)
 
-- [TouchDesigner - IF statements and basic Python (Script CHOP)](https://www.youtube.com/watch?v=pgpteF2Ztp8) – Bring basic if-statements and coding logic with Python into TouchDesigner
+- [TouchDesigner - IF statements and basic Python (Script CHOP) - Synthetic_Future](https://www.youtube.com/watch?v=pgpteF2Ztp8) – Bring basic if-statements and coding logic with Python into TouchDesigner
 
-## General Learning Resources
+
+
+&nbsp;
+
+
+
+## General Coding Resources
 
 - [freeCodeCamp.org](https://www.freecodecamp.org/learn/) - a great free resource with an abundance of hands-on lessons for a variety of coding languages and development contexts
 
@@ -61,21 +113,21 @@ This is a living document. Resources will go out of date; new resources will be 
 
 - [Kevin Powell](https://www.youtube.com/@KevinPowell) – Super up-to-date tutorials on HTML and CSS (mostly CSS). Great place to learn general web design and development
 
-&nbsp;
-&nbsp;
+
 &nbsp;
 
 
 # Downloads
 
-## Software to download/use
+## Apps and tools
 
 - [GitHub Desktop](https://desktop.github.com/download/) - a simple desktop app to help you manage your GitHub repositories without using the command line
 - [Visual Studio Code](https://code.visualstudio.com/) (VS Code) - A text editor for working on your coding projects
 - [FFmpeg](https://ffmpeg.org/) – A command line tool for editing and exporting video. Good for batch processing multiple video files quickly, without needing to use something like Adobe Premiere.
 - [Obsidian](https://obsidian.md/) – A lightweight, markdown-based note-taking and "knowledge management" app. Highly customizable, can be used to create simple or complex note-taking systems. All files are stored locally (unlike cloud-based services like Notion or Google Docs)
+- [4K Video Downloader](https://www.4kdownload.com/-54) – For downloading YouTube videos (it's nicer than using those ad-filled YouTube downloader websites) 
 
-## Libraries, plugins and tools
+## Coding libraries and software plugins
 
 ### Web
 
@@ -91,41 +143,7 @@ This is a living document. Resources will go out of date; new resources will be 
 
 ### TouchDesigner
 
-- [MediaPipe TouchDesigner Plugin](https://github.com/torinmb/mediapipe-touchdesigner) – created by [Torin Blankensmith](https://www.youtube.com/results?search_query=torin+blankensmith). See their hand-tracking tutorial [below](#touchdesigner-2)
+- [MediaPipe TouchDesigner Plugin](https://github.com/torinmb/mediapipe-touchdesigner) – created by [Torin Blankensmith](https://www.youtube.com/results?search_query=torin+blankensmith). See their [hand-tracking tutorial](#touchdesigner).
 
 
-
-## Before the workshop
-
-Do the following things before our workshop. You may already have some of these things.
-
-1. Download and install **Obsidian** [https://obsidian.md/](https://obsidian.md/)
-
-1. Sign up for a **GitHub** account [https://github.com/](https://github.com/)
-
-1. Download and install **GitHub Desktop** [https://desktop.github.com/download/](https://desktop.github.com/download/)
-
-1. Download and install **Visual Studio Code (VS Code)** [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-1. Register an account on **Derivative** [https://derivative.ca/user/register](https://derivative.ca/user/register)
-
-1. Download and install **TouchDesigner** [https://derivative.ca/download](https://derivative.ca/download) (you can use the free non-commercial license)
-
-1. Sign up for a **p5.js Editor** account [https://editor.p5js.org/signup](https://editor.p5js.org/signup)
-
-
-## General Tips
-
-1. **Learn terminology** - learning terminology helps you understand what is possible, what to search for, and how better to prompt an AI coding assistant.
-
-1. **Beware the XY Problem** - The [XY Problem](https://xyproblem.info/) is a way of thinking about how to ask for help solving problems, and is useful in all domains—not just coding. Essentially, it's a way to help you ask better questions by getting you to ask about the *problem itself* instead of what you *think* the solution is. 
-
-1. **Gain comfort connecting different languages and contexts** – Any intermediate to advanced project you approach will require multiple tools working together. You often can't *just* use p5.js, or *just* Python. Cobbling together multiple tools for the job is often how problems must be solved, rather than forcing one tool to do everything.
-
-1. **Exposure over mastery** – Don't worry about "getting good" at languages. Be open to working across multiple contexts.
-
-
-## Learning Resources
-
-(coming soon)
 
