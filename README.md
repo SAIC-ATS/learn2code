@@ -56,7 +56,7 @@ This is a living document. Resources will go out of date; new resources will be 
 
 - [Git and GitHub for Poets – The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) – Learn how to use git and GitHub (whether or not you are a poet).
 
-- [Command Line Crash Course For Beginners | Terminal Commands – Traversy Media](https://www.youtube.com/watch?v=uwAqEzhyjtw) – Learn to use the command line/Terminal. This is an extremely useful skill!
+- [Command Line Crash Course For Beginners - Terminal Commands – Traversy Media](https://www.youtube.com/watch?v=uwAqEzhyjtw) – Learn to use the command line/Terminal. This is an extremely useful skill!
 
 ### Creative code on the web
 
