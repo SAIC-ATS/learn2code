@@ -2,7 +2,7 @@
 
 This is a non-comprehensive list of resources for venturing into creative code and software tools that brush up against creative code. The resources shared here have (mostly) been vetted or tested before adding. This is not a gaurantee that they'll work on your machine 😉.
 
-This is a living document. Resources will go out of date; new resources will be added. For now, most of these resources are related to the learn2code workshop held on June 15, 2025. More resources will be added.
+This is a living document. Resources will go out of date; new resources will be added. For now, most of these resources are related to the learn2code workshop held on June 15, 2025. More resources will be added!
 
 ## Table of Contents
 
@@ -75,7 +75,9 @@ This is a living document. Resources will go out of date; new resources will be 
 - [TouchDesigner Tutorial: Beginner Crash Course – The Interactive & Immersive HQ](https://www.youtube.com/playlist?list=PLpuCjVEMQha9rjhDET3uuE0T3UeIcROJu) – Great place to start to learn the basics of TouchDesigner. Start here before venturing out to more specific/advanced tutorials.
 
 - [Hand Tracking in TouchDesigner - Master Class Part 1 – Torin Blankensmith](https://www.youtube.com/watch?v=e2FtkufeErY)
+
 - [Hand Tracking in TouchDesigner - Master Class Part 2 – Torin Blankensmith](https://www.youtube.com/watch?v=XRw1AUa57Zw)
+
 - [Hand Tracking in TouchDesigner - Master Class Part 3 – Torin Blankensmith](https://www.youtube.com/watch?v=7o960C7nXSY)
 
 - [TouchDesigner - IF statements and basic Python (Script CHOP) - Synthetic_Future](https://www.youtube.com/watch?v=pgpteF2Ztp8) – Bring basic if-statements and coding logic with Python into TouchDesigner
